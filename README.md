@@ -57,7 +57,9 @@ Web for BCG WASTE WATER TREATMENT COMPANY
             </div>
         </section>
     </main>
-
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
     <footer>
         <p>&copy; 2024 BCG IPAL. Semua Hak Cipta Dilindungi.</p>
     </footer>

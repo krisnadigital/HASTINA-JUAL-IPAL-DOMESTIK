@@ -1,7 +1,6 @@
 #HASTINAKARYA-JUAL IPAL DOMESTIK
 Web for BCG WASTE WATER TREATMENT COMPANY
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,7 @@ Web for BCG WASTE WATER TREATMENT COMPANY
         <section id="contact" class="section">
             <div class="container">
                 <h2>Hubungi Kami</h2>
-                <form action="#" method="POST" class="contact-form">
+                <form action="wa.me/6282170555720" method="POST" class="contact-form">
                     <input type="text" name="name" placeholder="Nama Lengkap" required>
                     <input type="email" name="email" placeholder="Email" required>
                     <textarea name="message" placeholder="Pesan Anda" rows="4" required></textarea>
